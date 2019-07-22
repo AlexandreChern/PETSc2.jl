@@ -1,4 +1,4 @@
-# PETSc2 from Magarita 
+# PETSc2 from Magarita Editor swithed to VIM 
 This package provides thin wrappers for PETSc, as well as a few convenience functions that take advantage of multiple dispatch.
 
 This package requires the MPI.jl package be installed.  Once it is installed you should be able to run both Julia and Petsc in parallel using MPI for all communication.  The testing verifies that PETSc can be used both serially and in parallel.
